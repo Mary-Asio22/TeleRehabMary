@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786691127661",
+    "project_id": "telerehab-ef62e",
+    "storage_bucket": "telerehab-ef62e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786691127661:android:1f8bb36cee00f1e88ac264",
+        "android_client_info": {
+          "package_name": "com.example.telerehab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786691127661-arsq3sk82svir68rpfm6bvhjivjjtv1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4xg0kILdkaZGt3uPRe4kd_PCFKcLeFPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786691127661-arsq3sk82svir68rpfm6bvhjivjjtv1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
